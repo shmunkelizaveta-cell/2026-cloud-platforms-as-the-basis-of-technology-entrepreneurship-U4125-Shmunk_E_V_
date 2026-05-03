@@ -10,8 +10,8 @@ Group: U4125
 
 Author: Shmunk Elizaveta Vladimirovna
 
-Lab: Lab1
+Lab: Lab2
 
-Date of create: 01.05.2026
+Date of create: 03.05.2026
 
-Date of finished: 01.05.2026
+Date of finished: 03.05.2026
