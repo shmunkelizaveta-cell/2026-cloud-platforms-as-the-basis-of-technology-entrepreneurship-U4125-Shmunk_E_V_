@@ -21,6 +21,7 @@
 На вкладке Service Accounts в Google Cloud Platform был создан сервисный аккаунт eshmunk-sa-lab1@cloud-platforms-as-the-basis.iam.gserviceaccount.com
 <img width="1440" height="761" alt="Снимок экрана 2026-05-04 в 14 34 58" src="https://github.com/user-attachments/assets/6fb56b43-ec09-45e0-8341-8d7040cac7c8" />
 Далее была создана виртуальная машина в Compute Engine 
+<img width="1440" height="813" alt="Снимок экрана 2026-05-04 в 15 35 38" src="https://github.com/user-attachments/assets/bbb800df-4af3-445a-94ab-fe117fc6d335" />
 
 После этого с использованием утилиты gsutil был найден бакет lab1-bucket-itmo, и из него были скопированы файлы на локальную директорию виртуальной машины.
 <img width="1440" height="92" alt="Снимок экрана 2026-05-04 в 14 56 35" src="https://github.com/user-attachments/assets/f49fc92f-2ef8-4bb5-b0f5-ebcfc31fab2d" />
