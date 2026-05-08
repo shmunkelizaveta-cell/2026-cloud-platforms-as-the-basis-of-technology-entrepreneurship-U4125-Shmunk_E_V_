@@ -1,8 +1,8 @@
+University: ITMO University
 
+Faculty: FICT
 
-Faculty: [FICT](https://fict.itmo.ru)
-
-Course: [Cloud platforms as the basis of technology entrepreneurship](https://)
+Course: Cloud platforms as the basis of technology entrepreneurship ADD link
 
 Year: 2026
 
